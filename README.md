@@ -58,7 +58,7 @@ Ensure you have the following installed:
 ### Top contributors:
 * [![dmnunez1993][github]][dmnunez-url]
 * [![trucdefou][dmnunez]][trucdefou-url]
-* [![Next][Next.js]][Next-url]
+* [![Next][trucdefou]][Next-url]
 ---
 
 ## **Contributing**  
