@@ -55,8 +55,8 @@ Ensure you have the following installed:
 
 ### Top contributors:
 
-<a href="https://github.com/github_username/repo_name/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
+<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
+  * [![Vue][Vue.js]][Vue-url]
 </a>
 ---
 
@@ -94,4 +94,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## **Acknowledgments**  
 - [Lambda Stack Documentation](https://lambdalabs.com/lambda-stack-deep-learning-software)  
 - [NVIDIA Container Toolkit](https://github.com/NVIDIA/nvidia-docker)  
-- [Docker Official Documentation](https://docs.docker.com/)  
+- [Docker Official Documentation](https://docs.docker.com/)
+
+  [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+   [Vue-url]: https://vuejs.org/
