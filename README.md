@@ -60,7 +60,7 @@ Ensure you have the following installed:
 - Automate environment setup with Docker Compose.  
 
 ### Top contributors:
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> [trucdefou](https://github.com/trucdefou)  
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <p>[trucdefou](https://github.com/trucdefou)</p>  
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> [dmnunez1993](https://github.com/dmnunez1993)  
 ---
 
