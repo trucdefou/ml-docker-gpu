@@ -9,8 +9,14 @@ This project provides a Docker container preconfigured with Lambda Stack and add
 ### **Built With**  
 - **Docker**: For containerization and easy environment management.  
 - **Lambda Stack**: Preconfigured stack with TensorFlow, PyTorch, CUDA, and cuDNN for ML workloads.  
-- **NVIDIA Container Toolkit**: Enables GPU acceleration in Docker containers.  
+- **NVIDIA Container Toolkit**: Enables GPU acceleration in Docker containers.
 
+<img src="https://img.shields.io/badge/λ-Lambda_Stack-blue" />
+<img src="https://img.shields.io/badge/NVIDIA-toolkit-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
 ---
 
 ## **Getting Started**  
@@ -55,10 +61,8 @@ Ensure you have the following installed:
 - Automate environment setup with Docker Compose.  
 
 ### Top contributors:
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-* [![GitHub]
-* [![GitHub][github][dmnunez-url]
-* [![trucdefou][GitHub]][trucdefou-url]
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> [trucdefou](https://github.com/trucdefou)  
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> [dmnunez1993](https://github.com/dmnunez1993)  
 ---
 
 ## **Contributing**  
