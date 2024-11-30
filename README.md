@@ -60,8 +60,10 @@ Ensure you have the following installed:
 - Automate environment setup with Docker Compose.  
 
 ### Top contributors:
-<img src="https://img.shields.io/badge/trucdefou-white"/> (https://github.com/trucdefou) 
-<img src="https://img.shields.io/badge/dmnunez1993-white"/> (https://github.com/dmnunez1993)  
+<a href="https://github.com/trucdefou"><img src="https://img.shields.io/badge/@trucdefou-white"/></a>
+
+<a href="https://github.com/dmnunez1993"><img src="https://img.shields.io/badge/@dmnunez1993-white"/></a>
+
 ---
 
 ## **Contributing**  
@@ -88,8 +90,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## **Contact**  
-**Luciano Recalde**  
+## **Contact**   
 [lucianorecalde92@gmail.com](mailto:lucianorecalde92@gmail.com)  
 [GitHub Profile](https://github.com/trucdefou)  
 
