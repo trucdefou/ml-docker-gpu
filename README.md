@@ -56,8 +56,8 @@ Ensure you have the following installed:
 - Automate environment setup with Docker Compose.  
 
 ### Top contributors:
-* [![github][dmnunez1993]][dmnunez-url]
-* [![github][@trucdefou]][trucdefou-url]
+* [![dmnunez1993][github]][dmnunez-url]
+* [![trucdefou][dmnunez]][trucdefou-url]
 
 ---
 
