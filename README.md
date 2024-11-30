@@ -55,6 +55,7 @@ Ensure you have the following installed:
 - Automate environment setup with Docker Compose.  
 
 ### Top contributors:
+* ![GitHub](https://github.com/trucdefou)
 * [![GitHub][github]][dmnunez-url]
 * [![trucdefou][GitHub]][trucdefou-url]
 ---
@@ -106,3 +107,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[GitHub]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
