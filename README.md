@@ -11,7 +11,7 @@ This project provides a Docker container preconfigured with Lambda Stack and add
 - **Lambda Stack**: Preconfigured stack with TensorFlow, PyTorch, CUDA, and cuDNN for ML workloads.  
 - **NVIDIA Container Toolkit**: Enables GPU acceleration in Docker containers.
 
-<img src="https://img.shields.io/badge/λ-Lambda_Stack-blue" />
+<img src="https://img.shields.io/badge/λ-Lambda_Stack-white" width="168" />
 <img src="https://img.shields.io/badge/NVIDIA-toolkit-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
